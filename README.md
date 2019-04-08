@@ -60,3 +60,6 @@ When you learn coding, do not copy and paste. Do not. Instead, you read the code
 
 - [bitgrit ebook: How to Succeed in Data Science](https://docs.google.com/document/d/1fvxDOdCjPx0wS4aqSOME3NyATJGN7sASLeEyygIvcJA)
 
+## How to Contribute
+
+You are welcome to make a PR to this repo. As you contribute more, you can also apply to become an official contributor. Please go to our [Facebook Group](https://www.facebook.com/groups/datasciencebitgrit) and tag "John Wu" and ask for the permission to become an official contributor. You can also reach me that way to get tech or usage support. I am available during working hours for direct chats on Facebook Messenger.
