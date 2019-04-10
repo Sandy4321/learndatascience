@@ -60,6 +60,14 @@ When you learn coding, do not copy and paste. Do not. Instead, you read the code
 
 - [bitgrit ebook: How to Succeed in Data Science](https://docs.google.com/document/d/1fvxDOdCjPx0wS4aqSOME3NyATJGN7sASLeEyygIvcJA)
 
+- [Curated AI/ML/DL resources, contributed for the community, by the community](https://github.com/neomatrix369/awesome-ai-ml-dl/)
+
+- [Curated Data relatd resources, contributed for the community, by the community](https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/README-details.md#data)
+
+## Feedback and ideas
+
+- [Google doc with draft list of feedback and idea - you can add your comments here, it is READONLY](https://docs.google.com/document/d/1GGMbKbxTfiBgGjYtyHaVOr1B0gTVvLjwsDz0Ub7VU5g/edit?usp=sharing)
+
 ## How to Contribute
 
 You are welcome to make a PR to this repo. As you contribute more, you can also apply to become an official contributor. Please go to our [Facebook Group](https://www.facebook.com/groups/datasciencebitgrit) and tag "John Wu" and ask for the permission to become an official contributor. You can also reach me that way to get tech or usage support. I am available during working hours for direct chats on Facebook Messenger.
